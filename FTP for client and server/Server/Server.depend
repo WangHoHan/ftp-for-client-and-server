@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607700636 source:/home/students/s458903/FTP for client and server/Server/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<dirent.h>
+	<unistd.h>
+
